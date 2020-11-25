@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogApi", "DogApi\DogApi.csproj", "{A75E2402-8D15-4788-A9C0-1B13B529F2BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogApi.Tests", "DogApi.Tests\DogApi.Tests.csproj", "{D16F92EE-EFBF-43DB-B193-B92E6D32631B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A75E2402-8D15-4788-A9C0-1B13B529F2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75E2402-8D15-4788-A9C0-1B13B529F2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75E2402-8D15-4788-A9C0-1B13B529F2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75E2402-8D15-4788-A9C0-1B13B529F2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16F92EE-EFBF-43DB-B193-B92E6D32631B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16F92EE-EFBF-43DB-B193-B92E6D32631B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16F92EE-EFBF-43DB-B193-B92E6D32631B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16F92EE-EFBF-43DB-B193-B92E6D32631B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA9CDD4-B3DC-44D0-96C2-2B2ADFBB8722}
+	EndGlobalSection
+EndGlobal
