@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Alex Griffith</Authors>
+    <Description>.NET Standard Client for interacting with the Dog API</Description>
+    <PackageProjectUrl>https://github.com/halomademeapc/DogApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/halomademeapc/DogApi</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>dog</PackageTags>
+    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+    <Version>0.1.0</Version>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
